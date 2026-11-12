@@ -1,0 +1,10 @@
+name: ladder_core
+description: Unified n x n orthogonal grid physics, eight-switch complexity lattice, exact solvers, Combinatorial Move Tree, and seeded synthesizer across L to 2EXPTIME. Pure Dart, no Flutter.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+
+dev_dependencies:
+  test: ^1.25.0

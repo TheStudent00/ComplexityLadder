@@ -1,0 +1,12 @@
+# Flutter and Dart build products
+**/build/
+**/.dart_tool/
+*.iml
+.idea/
+app/.flutter-plugins*
+app/android/.gradle/
+app/android/.kotlin/
+app/android/local.properties
+app/android/app/.cxx/
+app/linux/flutter/ephemeral/
+.repo-daemon.conf
